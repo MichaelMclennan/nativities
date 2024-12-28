@@ -1,0 +1,908 @@
+---
+title: ""
+format: pdf
+output-file: NativityCatalog.pdf
+author: "Denise Daniel"
+fontsize: 14pt
+line-spacing: 2
+---
+
+\thispagestyle{empty}
+
+\begin{center}
+\vspace*{\fill}
+{\Huge \bfseries Nativities}
+\vspace{2cm}
+
+{\large A Catalog of Nativities}
+
+\vspace*{\fill}
+\end{center}
+\newpage
+\setcounter{page}{1}
+
+# Nativity with Music Box
+
+![](photos/Natvity_ - 1.jpeg)
+
+\
+
+**Origin:** Salzburg, Austria
+
+**Year:** 2019
+
+**Purchaser:** Denise
+
+**Material(s):** Wood, unfinished pine
+
+
+
+# Mexican Nativity
+
+![](photos/Natvity_ - 2.jpeg)
+
+\
+
+**Origin:** Cancun, Mexico
+
+**Year:** 2018
+
+**Purchaser:** Daniel Family
+
+**Material(s):** clay
+
+chosen from a gift shop display in the Cancun airport
+
+# Krönberg Nativity
+
+![](photos/Natvity_ - 3.jpeg)
+
+\
+
+**Origin:** Denmark
+
+**Year:** 2018
+
+**Purchaser:** Denise
+
+**Material(s):** porcelain/ceramic
+
+purchased at Christmas market in Krönberg Castle
+
+# Duomo Nativity
+
+![](photos/Natvity_ - 4.jpeg)
+
+\
+
+**Origin:** Italy
+
+**Year:** 2024
+
+**Purchaser:** Denise
+
+**Material(s):** plastic vinyl
+
+purchased at the pop-up gift shop behind the Milano Duomo
+
+# Amish Nativity
+
+![](photos/Natvity_ - 5.jpeg)
+
+\
+
+**Origin:** Bird-in-Hand, Lancaster Co., PA
+
+**Year:** 2022
+
+**Purchaser:** Denise & Daniel
+
+**Material(s):** clay
+
+Purchased at the shop adjacent to the Smokehouse BBQ
+
+# Ella Dillon Nativity
+
+![](photos/Natvity_ - 6.jpeg)
+
+\
+
+**Origin:** Utah
+
+**Year:** 2017
+
+**Purchaser:** Denise
+
+**Material(s):** Hand-painted on wood
+
+Made by the daughter of my MTC companion: Lori Bingham Dillon
+
+# Israel #1
+
+![](photos/Natvity_ - 7.jpeg)
+
+\
+
+**Origin:** Jerusalem, Israel
+
+**Year:** 2018
+
+**Purchaser:** Rachel
+
+**Material(s):** Olive Wood
+
+Purchased on HEFY trip to Israel 
+
+# Rescued Nativity
+
+![](photos/Natvity_ - 8.jpeg)
+
+\
+
+**Origin:** Newtown, PA
+
+**Year:** 2022
+
+**Purchaser:** not purchased
+
+**Material(s):** resin
+
+Rescued from a bag of donations from Marguerite Mozilla, Christine Herron's mom
+
+# Dresden Handmade
+
+![](photos/Natvity_ - 9.jpeg)
+
+\
+
+**Origin:** Dresden, Germany
+
+**Year:** 2018
+
+**Purchaser:** Denise
+
+**Material(s):** Wood
+
+purchased at the Christmas market in Dresden, Germany on a trip with Aunt Sputter. Bought from the carver.
+
+# Belize Nativity
+
+![](photos/Natvity_ - 10.jpeg)
+
+\
+
+**Origin:** Belize
+
+**Year:** 2021
+
+**Purchaser:** Caroline
+
+**Material(s):** hand-painted clay and native fabric
+
+Caroline purchased on an HEFY trip to Belize
+
+# Egyptian Nativity
+
+![](photos/Natvity_ - 11.jpeg)
+
+\
+
+**Origin:** Cairo, Egypt
+
+**Year:** 2023
+
+**Purchaser:** Denise
+
+**Material(s):** camel bone
+
+purchased in a small shop on the same road as the church where many claim the family of Jesus lived when they fled the decree of Herod
+
+# Lake Como Simple Nativity
+
+![](photos/Natvity_ - 12.jpeg)
+
+\
+
+**Origin:** Como, Italy
+
+**Year:** 2024
+
+**Purchaser:** Denise
+
+**Material(s):** plastic
+
+purchased at the Christmas market in Como, Italy on a trip with Darla, Debbie and Jill
+
+# Balinese Nativity
+
+![](photos/Natvity_ - 13.jpeg)
+
+\
+
+**Origin:** Bali, Indonesia
+
+**Year:** 2019
+
+**Purchaser:** Denise
+
+**Material(s):** cow bone
+
+
+
+# Strasbourg Nativity
+
+![](photos/Natvity_ - 14.jpeg)
+
+\
+
+**Origin:** Strasbourg, France
+
+**Year:** 2024
+
+**Purchaser:** Denise
+
+**Material(s):** ceramic
+
+purchased on a Christmas markets trip with Darla, Debbie, and Jill
+
+# Sagrada Familia Nativity
+
+![](photos/Natvity_ - 15.jpeg)
+
+\
+
+**Origin:** Barcelona, Spain
+
+**Year:** 2014
+
+**Purchaser:** Daniel
+
+**Material(s):** Stainless and pewter
+
+purchased at the gift shop of the Sagrada Familia
+
+# African Nativity
+
+![](photos/Natvity_ - 16.jpeg)
+
+\
+
+**Origin:** Kenya, Africa
+
+**Year:** 2019
+
+**Purchaser:** Debbie
+
+**Material(s):** wood
+
+purchased as a gift from Debbie and Matthew on a trip to Africa
+
+# Kutztown Nativity
+
+![](photos/Natvity_ - 17.jpeg)
+
+\
+
+**Origin:** Kutztown, PA
+
+**Year:** 2019
+
+**Purchaser:** Daniel Children
+
+**Material(s):** unfinished wood
+
+purchased by the Daniel kids at the Kutztown Fair on a trip there with the Feldman Family
+
+# Finnish Nativity
+
+![](photos/Natvity_ - 18.jpeg)
+
+\
+
+**Origin:** Helsinki, Finland
+
+**Year:** 2017
+
+**Purchaser:** Denise
+
+**Material(s):** wood and amber
+
+purchased on the street of the church in the cave during our Baltic cruise
+
+# Schoenbrünn Castle Nativity 
+
+![](photos/Natvity_ - 19.jpeg)
+
+\
+
+**Origin:** Vienna, Austria
+
+**Year:** 2019
+
+**Purchaser:** Denise
+
+**Material(s):** beeswax
+
+purchased on a Christmas market trip with Darla and Debbie
+
+# Unknown Name
+
+![](photos/Natvity_ - 20.jpeg)
+
+\
+
+**Origin:** Unknown Origin
+
+**Year:** Unknown Year
+
+**Purchaser:** Unknown Purchaser
+
+**Material(s):** Unknown Materials
+
+
+
+# Costa Rican Nativity
+
+![](photos/Natvity_ - 21.jpeg)
+
+\
+
+**Origin:** San Jose, Costa Rica
+
+**Year:** 2023
+
+**Purchaser:** Eliza & John
+
+**Material(s):** hand-painted wood and clay
+
+purchased on the Spanish language trip to Costa Rica
+
+# Palestinian Nativity
+
+![](photos/Natvity_ - 22.jpeg)
+
+\
+
+**Origin:** Palestine
+
+**Year:** 2023
+
+**Purchaser:** Eliza
+
+**Material(s):** Local felted wool
+
+Eliza purchased in Bethlehem on and HXP trip. Unique because it's made in Palestine.
+
+# Taiwanese Nativity
+
+![](photos/Natvity_ - 23.jpeg)
+
+\
+
+**Origin:** Taiwan
+
+**Year:** 2020
+
+**Purchaser:** Rachel
+
+**Material(s):** hand-painted ceramic
+
+Purchased on Rachel's mission in Taichung, Taiwan
+
+# Tiny Nativity
+
+![](photos/Natvity_ - 24.jpeg)
+
+\
+
+**Origin:** San Juan, Puerto Rico
+
+**Year:** 2019
+
+**Purchaser:** Caroline
+
+**Material(s):** plastic
+
+purchased on a Spanish language trip to Puerto Rico
+
+# Bricks Nativity
+
+![](photos/Natvity_ - 25.jpeg)
+
+\
+
+**Origin:** Utah
+
+**Year:** 2020
+
+**Purchaser:** Dianne Daniel
+
+**Material(s):** plastic lego knock-off bricks
+
+gift to the family from grandma Dianne
+
+# Eliza Felting Nativity
+
+![](photos/Natvity_ - 26.jpeg)
+
+\
+
+**Origin:** New Hope, PA
+
+**Year:** 2023
+
+**Purchaser:** Eliza
+
+**Material(s):** felt, yarn, pipe cleaner
+
+handmade by Eliza for Christmas 2023
+
+# Vanuatu Nativity
+
+![](photos/Natvity_ - 27.jpeg)
+
+\
+
+**Origin:** Vanuatu
+
+**Year:** 2024
+
+**Purchaser:** Eliza & John
+
+**Material(s):** wood
+
+purchased as Christmas gift 2024
+
+# Antiguan Nativity
+
+![](photos/Natvity_ - 28.jpeg)
+
+\
+
+**Origin:** Antigua
+
+**Year:** 2017
+
+**Purchaser:** Denise
+
+**Material(s):** clay, wood, coconut
+
+purchased on a family Christmas trip to Antigua
+
+# Salt Lake Nativity
+
+![](photos/Natvity_ - 29.jpeg)
+
+\
+
+**Origin:** Salt Lake City, UT
+
+**Year:** 2024
+
+**Purchaser:** Rachel & Michael
+
+**Material(s):** wood
+
+purchased for Christmas 2024
+
+# Jordanian Nativity
+
+![](photos/Natvity_ - 30.jpeg)
+
+\
+
+**Origin:** Jordan
+
+**Year:** 2023
+
+**Purchaser:** Denise
+
+**Material(s):** Olive wood
+
+Purchased at a roadside market halfway between Amman and Petra
+
+# Spanish Nativity
+
+![](photos/Natvity_ - 31.jpeg)
+
+\
+
+**Origin:** Sevilla, Spain
+
+**Year:** 2019
+
+**Purchaser:** Caroline
+
+**Material(s):** Ceramic
+
+Caroline purchased on her CRN choir trip to Spain and Portugal
+
+# Alaskan Nativity
+
+![](photos/Natvity_ - 32.jpeg)
+
+\
+
+**Origin:** Alaska
+
+**Year:** 2021
+
+**Purchaser:** John & Eliza
+
+**Material(s):** wood
+
+hand carved in Rupert, Idaho, but purchased in Alaska
+
+# Ecuadorian Nativity
+
+![](photos/Natvity_ - 33.jpeg)
+
+\
+
+**Origin:** Equador
+
+**Year:** 2017
+
+**Purchaser:** Rachel
+
+**Material(s):** plastic
+
+Rachel purchased on her HEFY trip to Equador
+
+# Tiny Italian Nativity
+
+![](photos/Natvity_ - 34.jpeg)
+
+\
+
+**Origin:** Italy
+
+**Year:** 2022
+
+**Purchaser:** Rachel
+
+**Material(s):** wood and metal
+
+Rachel purchased on her study abroad trip
+
+# French Nativity
+
+![](photos/Natvity_ - 35.jpeg)
+
+\
+
+**Origin:** Strasbourg, France
+
+**Year:** 2024
+
+**Purchaser:** Denise
+
+**Material(s):** wood
+
+Purchased from the carver at the Strasbourg Christmas market
+
+# German Music Box
+
+![](photos/Natvity_ - 36.jpeg)
+
+\
+
+**Origin:** Nuremberg, Germany
+
+**Year:** 2018
+
+**Purchaser:** Denise
+
+**Material(s):** Carved wood with musical mechanism
+
+purchased on the first Christmas markets trip with Debbie in Nuremberg
+
+# Puzzle Nativity
+
+![](photos/Natvity_ - 37.jpeg)
+
+\
+
+**Origin:** Stuttgart, Germany
+
+**Year:** 2019
+
+**Purchaser:** Denise
+
+**Material(s):** wood
+
+Purchased at the Stuttgart Christmas market on the trip with Darla and Debbie
+
+# Peruvian Nativity
+
+![](photos/Natvity_ - 38.jpeg)
+
+\
+
+**Origin:** Peru
+
+**Year:** 2024
+
+**Purchaser:** Eliza and John
+
+**Material(s):** hand-painted clay
+
+Purchased on the Spanish Language trip to Peru
+
+# Aruban Nativity
+
+![](photos/Natvity_ - 39.jpeg)
+
+\
+
+**Origin:** Aruba
+
+**Year:** 2024
+
+**Purchaser:** Denise & Daniel
+
+**Material(s):** hand-painted wood
+
+purchased on a trip to Aruba with Josh & Marina
+
+# Baltic Nativity
+
+![](photos/Natvity_ - 40.jpeg)
+
+\
+
+**Origin:** Talinn, Estonia
+
+**Year:** 2018
+
+**Purchaser:** Denise
+
+**Material(s):** wood and felt
+
+purchased on cruise in the Baltic
+
+# Candle Tower Nativity
+
+![](photos/Natvity_ - 41.jpeg)
+
+\
+
+**Origin:** Germany
+
+**Year:** 2019
+
+**Purchaser:** Denise
+
+**Material(s):** wood
+
+purchased for Emma on the Christmas market trip with Darla and Debbie
+
+# Mismatched Nativity
+
+![](photos/Natvity_ - 42.jpeg)
+
+\
+
+**Origin:** Deseret Book
+
+**Year:** 2019
+
+**Purchaser:** Denise
+
+**Material(s):** mixed
+
+Based on book also pictured. Several were purchased for Secret Santa giving that year
+
+# Real Fauna Nativity
+
+![](photos/Natvity_ - 43.jpeg)
+
+\
+
+**Origin:** Nuremberg, Germany
+
+**Year:** 2018
+
+**Purchaser:** Denise
+
+**Material(s):** mixed materials
+
+purchased on first Christmas market trip with Debbie
+
+# Bear Nativity
+
+![](photos/Natvity_ - 44.jpeg)
+
+\
+
+**Origin:** Tennessee
+
+**Year:** 2022
+
+**Purchaser:** Eliza
+
+**Material(s):** wood
+
+purchased on HXP trip to Appalachia and the Outer Banks
+
+# Hawaiian Nativity
+
+![](photos/Natvity_ - 45.jpeg)
+
+\
+
+**Origin:** Ko'Olina, Hawaii
+
+**Year:** 2023
+
+**Purchaser:** Denise
+
+**Material(s):** wood
+
+purchased on Thanksgiving trip to Oahu
+
+# Canadian Nativity
+
+![](photos/Natvity_ - 46.jpeg)
+
+\
+
+**Origin:** Quebec, Canada
+
+**Year:** 2024
+
+**Purchaser:** Denise & Daniel
+
+**Material(s):** ceramic
+
+purchased on Daniel's 50th birthday trip to Quebec
+
+# Israel #2
+
+![](photos/Natvity_ - 47.jpeg)
+
+\
+
+**Origin:** Jerusalem
+
+**Year:** 2023
+
+**Purchaser:** Eliza
+
+**Material(s):** Olive wood
+
+purchased by Eliza for mom on an HXP trip
+
+# Toddler Jesus
+
+![](photos/Natvity_ - 48.jpeg)
+
+\
+
+**Origin:** Milan, Italy
+
+**Year:** 2024
+
+**Purchaser:** Denise
+
+**Material(s):** wood
+
+purchased on Christmas markets trip with Darla, Debbie, and Jill
+
+# Kokeshi Nativity
+
+![](photos/Natvity_ - 49.jpeg)
+
+\
+
+**Origin:** Tokyo, Japan
+
+**Year:** 2024
+
+**Purchaser:** Daniel
+
+**Material(s):** hand-painted wood
+
+Christmas gift from Daniel to Denise; designed by Danish artist in Japanese style
+
+# Small Deseret Book Nativity
+
+![](photos/Natvity_ - 50.jpeg)
+
+\
+
+**Origin:** Deseret Book
+
+**Year:** 2022
+
+**Purchaser:** Denise
+
+**Material(s):** ceramic
+
+purchased for children to start their own collections
+
+# Glass Nativity
+
+![](photos/Natvity_ - 51.jpeg)
+
+\
+
+**Origin:** Grandpa Harold and Grandma Lena Farnsworth
+
+**Year:** 2000
+
+**Purchaser:** Lena Sturgeon Farnsworth
+
+**Material(s):** glass
+
+gift from Denise's grandparents, circa Christmas 2000
+
+# Children's Nativity
+
+![](photos/Natvity_ - 52.jpeg)
+
+\
+
+**Origin:** Walmart in Philadelphia
+
+**Year:** 2000
+
+**Purchaser:** Denise
+
+**Material(s):** ceramic
+
+purchased our first year in PA
+
+# Swiss Chalet Nativity
+
+![](photos/Natvity_ - 53.jpeg)
+
+\
+
+**Origin:** Luzern, Switzerland
+
+**Year:** 2024
+
+**Purchaser:** Denise
+
+**Material(s):** wood
+
+purchased from the carver at the Christmas market in Luzern 
+
+# First Nativity
+
+![](photos/Natvity_ - 54.jpeg)
+
+\
+
+**Origin:** Grandma Penny Reeder
+
+**Year:** 1997
+
+**Purchaser:** Prudence Ann Wood Reeder
+
+**Material(s):** ceramic
+
+Christmas gift from Grandma Reeder the first year we were married
+
+# Little People Nativity
+
+![](photos/Natvity_ - 55.jpeg)
+
+\
+
+**Origin:** internet
+
+**Year:** 1999
+
+**Purchaser:** Denise
+
+**Material(s):** plastic
+
+purchased for Emma to play with
+
+# Missing Data Summary
+
+- Nativity 20: Missing Year
+- Nativity 20: Missing Purchaser
+- Nativity 20: Missing Materials
